@@ -1,0 +1,6 @@
+{
+  "name": "ValuMetric - Real Estate & Property Valuation Engine",
+  "description": "Comprehensive residential and commercial property valuation platform with mobile OTP authentication, 12 appraisal parameter categories, 3 primary valuation methods, and investment analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
